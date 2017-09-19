@@ -15,15 +15,15 @@ url: "https://Jeterlee.github.io"
 
 # Social
 social:
-    # weibo: 5366874726 
+    # weibo:  
     github: Jeterlee
     # twitter: 
     mail: xqlee120@yeah.net
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
-# baidu:
-    # id: 8ba1c6be0953b6f9c2ba38e57f615421  
+baidu: 
+    id: 7423285b5a906a49144f390c885a34d9    
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
