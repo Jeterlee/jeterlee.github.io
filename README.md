@@ -1,4 +1,4 @@
-## JeterLee
+## Jeter Lee
 
 [个人主页](https://Jeterlee.github.io)，记录学习的点点滴滴，收藏转载一些好的文章，也会将原创的文章分享。
 
