@@ -1,14 +1,14 @@
 # Basic
 title: Jeterlee
-subtitle: 个人站
+subtitle: 【选择比努力更重要！】
 description: 生命不息，奋斗不止！
 # 头像里面的标题
-avatarTitle: Jeterlee
+avatarTitle: Xiaoqiang Lee
 # 头像里面的描述
-avatarDesc: Android / 前端学习
+avatarDesc: Android / 人工智能
 url: "https://Jeterlee.github.io"
 
-# Comment
+# Comment （禁用功能）
 # comment:
     # disqus: leopard
     # uyan: 2143225  # 有言id,登录有言官网申请
@@ -16,16 +16,16 @@ url: "https://Jeterlee.github.io"
 # Social
 social:
     # weibo:  
-    github: Jeterlee
+    github: jeterlee
     # twitter: 
     mail: xqlee120@yeah.net
 
-# 百度统计 
+# 百度统计 (禁用功能)
 # 使用博客模板请去掉或者更换 id 
-baidu: 
-    id: 7423285b5a906a49144f390c885a34d9    
+# baidu: 
+    # id: 7423285b5a906a49144f390c885a34d9    
 
-# Google Analytics
+# Google Analytics (禁用功能)
 # 使用博客模板请去掉或者更换 id
 # ga:
     # id: UA-84134159-3   
